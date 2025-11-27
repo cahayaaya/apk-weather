@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Cuaca</string>
+    <string name="aplikasi_cuaca">Aplikasi Cuaca</string>
+    <string name="ketik_nama_kota">Ketik nama kota...</string>
+    <string name="coba_lagi">Coba Lagi</string>
+    <string name="memuat_data_cuaca">Memuat data cuaca...</string>
+    <string name="prediksi_per_jam">Prediksi Per Jam</string>
+    <string name="detail_cuaca">Detail Cuaca</string>
+    <string name="prediksi_7_hari">Prediksi 7 Hari</string>
+    <string name="search">Cari</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="maks">Maks</string>
+    <string name="min">Min</string>
+    <string name="terasa">Terasa</string>
+    <string name="angin">Angin</string>
+    <string name="kelembaban">Kelembaban</string>
+    <string name="tekanan">Tekanan</string>
+    <string name="pandang">Pandang</string>
+</resources>
